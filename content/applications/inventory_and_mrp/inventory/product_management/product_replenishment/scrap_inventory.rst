@@ -23,7 +23,8 @@ rather a designation in Odoo that is used to track items that are no longer in p
 .. admonition:: Learn more
 
    For more information about virtual locations, see the documentation about the different types of
-   :ref:`locations <inventory/management/difference-warehouse-location>`.
+   :ref:`locations
+   <inventory/warehouses_storage/inventory_management/warehouses-locations/locations>`.
 
 Scrap from stock
 ================
