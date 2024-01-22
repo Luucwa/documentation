@@ -615,6 +615,11 @@ ul.simple p {
     margin-bottom: 0;
 }
 
+ol > li > ol.simple > li:last-child > p,
+ul > li > ul.simple > li:last-child > p {
+    margin-bottom: 1em;
+}
+
 dl.footnote > dt,
 dl.citation > dt {
     float: left;
