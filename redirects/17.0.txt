@@ -2,3 +2,12 @@
 
 developer/reference/backend/views.rst developer/reference/user_interface/view_records.rst
 developer/reference/user_interface/view_architecture.rst developer/reference/user_interface/view_architectures.rst
+
+# inventory_and_mrp/inventory
+
+applications/inventory_and_mrp/inventory/warehouses_storage/advanced_operations_warehouse/closest_location.rst applications/inventory_and_mrp/inventory/warehouses_storage/removal_strategies/closest_location.rst   # advanced_operations_warehouse/closest_location.rst --> removal_strategies/closest_location.rst
+applications/inventory_and_mrp/inventory/warehouses_storage/advanced_operations_warehouse/fefo.rst applications/inventory_and_mrp/inventory/warehouses_storage/removal_strategies/fefo.rst                           # advanced_operations_warehouse/fefo.rst --> removal_strategies/fefo.rst
+applications/inventory_and_mrp/inventory/warehouses_storage/advanced_operations_warehouse/fifo.rst applications/inventory_and_mrp/inventory/warehouses_storage/removal_strategies/fifo.rst                           # advanced_operations_warehouse/fifo.rst --> removal_strategies/fifo.rst
+applications/inventory_and_mrp/inventory/warehouses_storage/advanced_operations_warehouse/least_packages.rst applications/inventory_and_mrp/inventory/warehouses_storage/removal_strategies/least_packages.rst       # advanced_operations_warehouse/least_packages.rst --> removal_strategies/least_packages.rst
+applications/inventory_and_mrp/inventory/warehouses_storage/advanced_operations_warehouse/lifo.rst applications/inventory_and_mrp/inventory/warehouses_storage/removal_strategies/lifo.rst                           # advanced_operations_warehouse/lifo.rst --> removal_strategies/lifo.rst
+applications/inventory_and_mrp/inventory/warehouses_storage/advanced_operations_warehouse/removal.rst applications/inventory_and_mrp/inventory/warehouses_storage/removal_strategies.rst                             # advanced_operations_warehouse/removal_strategies.rst --> removal_strategies/removal_strategies.rst
