@@ -28,12 +28,12 @@ from this dashboard.
    :align: center
    :alt: View all payslips that need to be paid on the Payslips To Pay page.
 
-Each payslip will list the :guilabel:`Reference` number for the individual payslip, the
+Each payslip lists the :guilabel:`Reference` number for the individual payslip, the
 :guilabel:`Employee` name, :guilabel:`Batch Name`, the :guilabel:`From` and :guilabel:`To` date
 range, the :guilabel:`Company`, the :guilabel:`Basic Wage`, :guilabel:`Net Wage`, and the
 :guilabel:`Status` of the payslip.
 
-Clicking on an individual payslip entry will show the details for the individual payslip.
+Clicking on an individual payslip entry shows the details for the individual payslip.
 
 .. _payroll/new-payslip:
 
@@ -119,9 +119,9 @@ When all the necessary information on the payslip is entered, click :guilabel:`S
 data, or click :guilabel:`Discard` to delete the entry.
 
 .. note::
-   Saving the entry is not required in order to compute the sheet, although it is considered best
-   practice to do so. The :guilabel:`Compute Sheet` button can be clicked without first saving the
-   payslip. Doing so will save the entry *and* compute the sheet.
+   Saving the entry is not required to compute the sheet, although it is considered best practice to
+   do so. The :guilabel:`Compute Sheet` button can be clicked without first saving the payslip.
+   Doing so saves the entry *and* compute the sheet.
 
 Click the :guilabel:`Compute Sheet` button to register all the
 information, and have the :guilabel:`Salary Computation` tab populated. If any modifications need to
@@ -154,8 +154,8 @@ If a payment needs to be cancelled or refunded, click the corresponding :guilabe
 
 .. important::
    In order for a payslip to be paid, the employee *must* have a bank account entered in their
-   contact information. If there is no bank information, a payslip cannot be paid, and an error will
-   appear when the :guilabel:`Make Payment` button is clicked. Banking information can be found in
+   contact information. If there is no bank information, a payslip cannot be paid, and an error
+   appears when the :guilabel:`Make Payment` button is clicked. Banking information can be found in
    the :guilabel:`Private Information` tab on the employee's card. Edit the employee card, and add
    banking information, if it is missing.
 
