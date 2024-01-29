@@ -88,6 +88,26 @@ Next, connect the :abbr:`IoT (Internet of Things)` devices to the Windows comput
 automatically detect the device because the driver is pre-installed on the computer. If not, search
 for and install the Windows driver for the device.
 
+.. important::
+   Most devices connect to the Windows Machine for Windows IoT automatically through Windows
+   Plug-N-Play (PnP). However, if Windows does not automatically recognize the device after
+   connecting, then the administrator may need to install the corresponding drivers manually.
+
+   Devices automatically recognized:
+
+   - Regular ink/toner based printers
+   - Receipt printers (Epson/Star)
+   - Barcode scanners
+
+   Devices not automatically recognized (requires manual driver download):
+
+   - Label printers (Zebra)
+   - Scales
+
+   Reference the manufacturer's website for the equipment in question. Then, download the drivers
+   and install them on the Windows machine. Reconnect the device in question and Windows will find
+   the device.
+
 Following connecting devices to the computer, refresh the :abbr:`IoT (Internet of Things)` box
 homepage and verify the device is seen. If not, reload the handlers through the :abbr:`IoT (Internet
 of Things)` box homepage.
