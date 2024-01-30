@@ -7,11 +7,6 @@ various customization options. When setting up your site using the Odoo website 
 selecting a theme that aligns with your desired aesthetic is imperative. If you wish to modify the
 theme later, navigate to the website builder, click the 'Edit' button, and access the 'Theme' tab.
 
-.. seealso::
-   - Website
-   - Building blocks
-   - Style
-
 Diverse sections are at your disposal, empowering you to tailor different aspects of your site to
 meet your requirements.
 
@@ -25,7 +20,7 @@ meet your requirements.
   :guilabel:`Background`.
 
   .. seealso::
-     :doc:`Translations <../translate>`
+     :doc:`Translations <../configuration/translate>`
 
 - :guilabel:`Paragraph`: This section is related to the format of your text <p>.
 
